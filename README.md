@@ -1,0 +1,2 @@
+# Pocketmine-Stan-Linter
+linter
